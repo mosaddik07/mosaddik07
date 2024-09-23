@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Mosaddik
 #### Web Devoloper
-![Web Devoloper](https://cdn.statically.io/img/timelinecovers.pro/facebook-cover/download/minified-js-code-javascript-facebook-cover.jpg)
 
 Allah's light guides me♔
 
